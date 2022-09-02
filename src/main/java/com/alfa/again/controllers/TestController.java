@@ -1,4 +1,4 @@
-package com.alfaagain.controllers;
+package com.alfa.again.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

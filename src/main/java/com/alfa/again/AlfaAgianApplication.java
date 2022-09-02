@@ -1,4 +1,4 @@
-package com.alfaagain;
+package com.alfa.again;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
