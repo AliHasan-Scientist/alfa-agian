@@ -1,0 +1,15 @@
+disableEmailVerification: true
+spring:
+  security:
+     oauth2:
+       client:
+        registration:
+           facebook:
+              client-id: 621433612925612
+              client-secret: f514b71174947207e2aa5d1af9a833b3
+logging:
+  level:
+     root: INFO
+     com.memorynot found: INFO
+     org.springframework.web: INFO
+     org.springframework.security: INFO
